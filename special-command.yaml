@@ -1,0 +1,1 @@
+oc port-forward svc/vote 8080:8080 -n hassan
