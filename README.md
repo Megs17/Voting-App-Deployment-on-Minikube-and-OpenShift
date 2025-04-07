@@ -47,9 +47,8 @@ The project uses the following Kubernetes objects:
    
 3. **Use minikube ingress controller**
 
-2. **Access the app**
+4. **Access the app**
    ```bash
-Frontend Voting: http://vote.example.com
-
-Result Page: http://result.example.com
+   Frontend Voting: http://vote.example.com
+   Result Page: http://result.example.com
 
